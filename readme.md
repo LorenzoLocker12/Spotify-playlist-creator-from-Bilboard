@@ -1,4 +1,4 @@
-#Spotify Playlist Creator From Bilboard
+# Spotify Playlist Creator From Bilboard
 
 This is a script made to fetch the top 100 songs of a specific year from the Billboard Hot 100 and create a playlist on Spotify.
 
